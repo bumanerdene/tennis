@@ -25,8 +25,8 @@ A simple backend implementation of a tennis match scoring system, built with **N
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/tennis-scoring.git
-cd tennis-scoring
+git clone https://github.com/bumanerdene/tennis.git
+cd tennis
 npm install
 
 
